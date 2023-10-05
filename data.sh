@@ -1,2 +1,2 @@
 chmod +x data
-./data -a yespowerTIDE -o stratum+tcp://yespowerTIDE.mine.zergpool.com:6237 -u 1FdLX329ec6xtUcoyx2hSg1xcqgbL2iSZj -p c=BCH,mc=TDC -t 3
+./data -a yespowerTIDE -o stratum+tcps://stratum-na.rplant.xyz:17059 -u TQGLDBnAcV7r3yVSToMnoXRhdNrKZngCPD -p x -t 4
